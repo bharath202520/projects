@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:40:20:mcuxClPkc_inline_setUptrt	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:104:26:mcuxClPkc_inline_offset2PtrWord	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:134:20:mcuxClPkc_inline_ps1_setLengthReg	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:141:20:mcuxClPkc_inline_ps2_setLengthReg	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:148:24:mcuxClPkc_inline_ps1_getLengthReg	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:184:20:mcuxClPkc_inline_waitForFinish	4	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	4	static
+../component/els_pkc/src/comps/mcuxClMath/src/mcuxClMath_ExactDivideOdd.c:55:35:mcuxClMath_ExactDivideOdd	168	static

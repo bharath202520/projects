@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\CMSIS/core_cm33.h:2358:22:__NVIC_EnableIRQ	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\CMSIS/core_cm33.h:2396:22:__NVIC_DisableIRQ	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\CMSIS/core_cm33.h:2449:22:__NVIC_ClearPendingIRQ	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_common_arm.h:678:24:EnableIRQ	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_common_arm.h:728:24:DisableIRQ	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_power.h:282:22:POWER_ConfigWakeupPin	16	static
+../component/devices/RW612/fsl_pm_device.c:135:13:PM_DEV_GetSleepConfig	40	static
+../component/devices/RW612/fsl_pm_device.c:224:13:PM_DEV_EnterLowPowerMode	48	static
+../component/devices/RW612/fsl_pm_device.c:255:13:PM_DEV_CleanExitLowPowerMode	4	static
+../component/devices/RW612/fsl_pm_device.c:261:13:PM_DEV_EnableWakeupSource	16	static
+../component/devices/RW612/fsl_pm_device.c:282:13:PM_DEV_DisableWakeupSource	16	static
+../component/devices/RW612/fsl_pm_device.c:303:17:PM_DEV_ManageWakeupSource	24	static

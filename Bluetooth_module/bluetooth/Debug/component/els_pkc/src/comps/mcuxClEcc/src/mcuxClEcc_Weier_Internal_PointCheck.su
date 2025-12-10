@@ -1,0 +1,2 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:198:24:mcuxClPkc_inline_waitForFinishGetStatus	16	static
+../component/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_Weier_Internal_PointCheck.c:55:49:mcuxClEcc_PointCheckAffineNR	64	static

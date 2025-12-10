@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClHash\inc/internal/mcuxClHash_Internal.h:193:25:mcuxClHash_getStatePtr	24	static
+../mbedtls/port/els/sha512_alt.c:53:5:mbedtls_sha512_starts_ret	328	static
+../mbedtls/port/els/sha512_alt.c:129:5:mbedtls_sha512_update_ret	328	static
+../mbedtls/port/els/sha512_alt.c:184:5:mbedtls_sha512_finish_ret	360	static
+../mbedtls/port/els/sha512_alt.c:246:5:mbedtls_sha512_ret	344	static
+../mbedtls/port/els/sha512_alt.c:311:5:mbedtls_internal_sha512_process	16	static
+../mbedtls/port/els/sha512_alt.c:316:6:mbedtls_sha512_clone	64	static

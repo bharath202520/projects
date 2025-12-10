@@ -1,0 +1,6 @@
+../fatfs/source/fsl_usb_disk/fsl_usb_disk_freertos.c:60:13:USB_HostMsdUfiCallback	24	static
+../fatfs/source/fsl_usb_disk/fsl_usb_disk_freertos.c:66:9:USB_HostMsdInitializeDisk	32	static
+../fatfs/source/fsl_usb_disk/fsl_usb_disk_freertos.c:144:9:USB_HostMsdGetDiskStatus	16	static
+../fatfs/source/fsl_usb_disk/fsl_usb_disk_freertos.c:149:9:USB_HostMsdReadDisk	64	static
+../fatfs/source/fsl_usb_disk/fsl_usb_disk_freertos.c:233:9:USB_HostMsdWriteDisk	64	static
+../fatfs/source/fsl_usb_disk/fsl_usb_disk_freertos.c:317:9:USB_HostMsdIoctlDisk	40	static

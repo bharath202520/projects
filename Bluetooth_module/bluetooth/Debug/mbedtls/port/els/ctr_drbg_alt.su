@@ -1,0 +1,11 @@
+../mbedtls/port/els/ctr_drbg_alt.c:32:6:mbedtls_ctr_drbg_init	16	static
+../mbedtls/port/els/ctr_drbg_alt.c:45:6:mbedtls_ctr_drbg_free	16	static
+../mbedtls/port/els/ctr_drbg_alt.c:58:6:mbedtls_ctr_drbg_set_prediction_resistance	16	static
+../mbedtls/port/els/ctr_drbg_alt.c:63:6:mbedtls_ctr_drbg_set_entropy_len	16	static
+../mbedtls/port/els/ctr_drbg_alt.c:67:6:mbedtls_ctr_drbg_set_reseed_interval	16	static
+../mbedtls/port/els/ctr_drbg_alt.c:71:5:mbedtls_ctr_drbg_set_nonce_len	16	static
+../mbedtls/port/els/ctr_drbg_alt.c:76:5:mbedtls_ctr_drbg_reseed	24	static
+../mbedtls/port/els/ctr_drbg_alt.c:81:5:mbedtls_ctr_drbg_update_ret	24	static
+../mbedtls/port/els/ctr_drbg_alt.c:86:5:mbedtls_ctr_drbg_seed	24	static
+../mbedtls/port/els/ctr_drbg_alt.c:95:5:mbedtls_ctr_drbg_random	128	static
+../mbedtls/port/els/ctr_drbg_alt.c:199:5:mbedtls_ctr_drbg_random_with_add	24	static

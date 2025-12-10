@@ -1,0 +1,2 @@
+../component/els_pkc/src/comps/mcuxClHash/src/mcuxClHash_api_multipart_common.c:26:50:mcuxClHash_init	48	static
+../component/els_pkc/src/comps/mcuxClHash/src/mcuxClHash_api_multipart_common.c:45:50:mcuxClHash_process	88	static

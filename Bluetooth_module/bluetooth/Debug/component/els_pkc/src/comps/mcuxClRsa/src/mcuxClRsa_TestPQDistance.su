@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:40:20:mcuxClPkc_inline_setUptrt	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:134:20:mcuxClPkc_inline_ps1_setLengthReg	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:148:24:mcuxClPkc_inline_ps1_getLengthReg	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	4	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:198:24:mcuxClPkc_inline_waitForFinishGetStatus	16	static
+../component/els_pkc/src/comps/mcuxClRsa/src/mcuxClRsa_TestPQDistance.c:45:49:mcuxClRsa_TestPQDistance	104	static

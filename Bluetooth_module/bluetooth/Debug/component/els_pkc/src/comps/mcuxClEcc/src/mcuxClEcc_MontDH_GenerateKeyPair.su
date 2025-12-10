@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:52:25:mcuxClSession_allocateWords_cpuWa	32	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:85:25:mcuxClSession_getCpuWaBuffer	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:168:20:mcuxClSession_freeWords_pkcWa	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:61:25:mcuxClKey_getKeyData	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:153:22:mcuxClKey_getTypeInfo	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:177:39:mcuxClKey_getAlgoId	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:90:25:mcuxClPkc_inline_offset2Ptr	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClEcc\inc/internal/mcuxClEcc_Internal.h:79:34:mcuxClEcc_castToEccCpuWorkarea	16	static
+../component/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_MontDH_GenerateKeyPair.c:58:49:mcuxClEcc_MontDH_GenerateKeyPair_Core	272	static
+../component/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_MontDH_GenerateKeyPair.c:176:49:mcuxClEcc_MontDH_GenerateKeyPair	72	static

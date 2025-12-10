@@ -1,0 +1,3 @@
+../mbedtls/port/els/cmac_alt.c:60:5:mbedtls_cipher_aes_cmac_starts	176	static
+../mbedtls/port/els/cmac_alt.c:245:5:mbedtls_cipher_aes_cmac_update	64	static
+../mbedtls/port/els/cmac_alt.c:300:5:mbedtls_cipher_aes_cmac_finish	80	static

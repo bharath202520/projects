@@ -1,0 +1,4 @@
+../mbedtls/port/pkc/ecdsa_alt.c:122:13:mbedtls_ecp_free_ecdsa	24	static
+../mbedtls/port/pkc/ecdsa_alt.c:163:5:mbedtls_ecdsa_sign	864	static
+../mbedtls/port/pkc/ecdsa_alt.c:364:5:mbedtls_ecdsa_verify	736	static
+../mbedtls/port/pkc/ecdsa_alt.c:564:5:mbedtls_ecdsa_genkey	768	static

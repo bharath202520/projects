@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\CMSIS/core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+../framework/platform/rw61x/fwk_platform.c:68:5:PLATFORM_InitTimerManager	24	static
+../framework/platform/rw61x/fwk_platform.c:104:6:PLATFORM_InitTimeStamp	16	static
+../framework/platform/rw61x/fwk_platform.c:122:10:PLATFORM_GetTimeStamp	8	static
+../framework/platform/rw61x/fwk_platform.c:127:10:PLATFORM_GetMaxTimeStamp	16	static
+../framework/platform/rw61x/fwk_platform.c:136:6:PLATFORM_TimeStampEnterLowPower	8	static
+../framework/platform/rw61x/fwk_platform.c:145:6:PLATFORM_TimeStampExitPowerDown	8	static
+../framework/platform/rw61x/fwk_platform.c:154:5:PLATFORM_RequestRngSeed	4	static
+../framework/platform/rw61x/fwk_platform.c:160:5:PLATFORM_SendRngSeed	16	static

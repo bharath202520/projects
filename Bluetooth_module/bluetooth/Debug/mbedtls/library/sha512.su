@@ -1,0 +1,6 @@
+../mbedtls/library/sha512.c:46:6:mbedtls_sha512_init	16	static
+../mbedtls/library/sha512.c:53:6:mbedtls_sha512_free	16	static
+../mbedtls/library/sha512.c:126:6:mbedtls_sha512_starts	16	static
+../mbedtls/library/sha512.c:344:6:mbedtls_sha512_update	24	static
+../mbedtls/library/sha512.c:425:6:mbedtls_sha512_finish	16	static
+../mbedtls/library/sha512.c:565:5:mbedtls_sha512_self_test	504	static

@@ -1,0 +1,10 @@
+../component/messaging/fsl_component_messaging.c:44:20:MSG_QueueAddTail	24	static
+../component/messaging/fsl_component_messaging.c:58:20:MSG_QueueAddHead	24	static
+../component/messaging/fsl_component_messaging.c:72:20:MSG_QueueAddPrev	32	static
+../component/messaging/fsl_component_messaging.c:89:20:MSG_QueueRemove	24	static
+../component/messaging/fsl_component_messaging.c:102:7:MSG_QueueRemoveHead	24	static
+../component/messaging/fsl_component_messaging.c:113:7:MSG_QueueGetHead	24	static
+../component/messaging/fsl_component_messaging.c:124:7:MSG_QueueGetNext	24	static
+../component/messaging/fsl_component_messaging.c:136:7:MSG_QueueGetPrev	24	static
+../component/messaging/fsl_component_messaging.c:148:7:MSG_Alloc	24	static
+../component/messaging/fsl_component_messaging.c:164:6:MSG_Free	16	static

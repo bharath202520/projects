@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:52:25:mcuxClSession_allocateWords_cpuWa	32	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:144:20:mcuxClSession_freeWords_cpuWa	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:188:39:mcuxClKey_getAlgorithm	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:211:25:mcuxClKey_getLoadedKeyData	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:253:24:mcuxClKey_getLoadedKeySlot	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:274:38:mcuxClKey_getLoadStatus	16	static
+../component/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cmac.c:39:49:mcuxClMacModes_Engine_CMAC_ProcessBlocks	128	static
+../component/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cmac.c:104:56:mcuxClMacModes_Engine_CMAC_Oneshot_fullBlocks	80	static
+../component/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cmac.c:140:49:mcuxClMacModes_Engine_CMAC_Oneshot	192	static
+../component/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cmac.c:253:49:mcuxClMacModes_Engine_CMAC_Init	64	static
+../component/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cmac.c:283:49:mcuxClMacModes_Engine_CMAC_Update	144	static
+../component/els_pkc/src/comps/mcuxClMacModes/src/mcuxClMacModes_Els_Cmac.c:388:49:mcuxClMacModes_Engine_CMAC_Finalize	144	static

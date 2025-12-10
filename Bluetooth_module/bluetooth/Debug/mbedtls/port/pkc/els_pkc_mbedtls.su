@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:40:20:mcuxClPkc_inline_setUptrt	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:75:24:mcuxClPkc_inline_ptr2Offset	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:90:25:mcuxClPkc_inline_offset2Ptr	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:134:20:mcuxClPkc_inline_ps1_setLengthReg	24	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:184:20:mcuxClPkc_inline_waitForFinish	4	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	4	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:127:13:__stack_chk_fail	4	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:134:17:common_init_els_pkc_and_trng	24	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:177:5:mbedtls_hw_init	16	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:202:10:CRYPTO_InitHardware	16	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:238:10:CRYPTO_ReInitHardware	16	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:378:15:sz_max	16	static
+../mbedtls/port/pkc/els_pkc_mbedtls.c:394:5:mbedtls_mpi_exp_mod	456	static

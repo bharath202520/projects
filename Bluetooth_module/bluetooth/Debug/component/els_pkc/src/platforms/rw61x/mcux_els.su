@@ -1,0 +1,5 @@
+../component/els_pkc/src/platforms/rw61x/mcux_els.c:47:10:ELS_PowerDownWakeupInit	56	static
+../component/els_pkc/src/platforms/rw61x/mcux_els.c:97:17:ELS_check_key	40	static
+../component/els_pkc/src/platforms/rw61x/mcux_els.c:113:17:ELS_PRNG_KickOff	56	static
+../component/els_pkc/src/platforms/rw61x/mcux_els.c:180:17:get_dtrng_config_data	32	static
+../component/els_pkc/src/platforms/rw61x/mcux_els.c:219:17:els_dtrng_cfg_load	136	static

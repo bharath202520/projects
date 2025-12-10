@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_common_arm.h:908:24:DisableGlobalIRQ	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_common_arm.h:934:20:EnableGlobalIRQ	24	static
+../source/main.c:38:5:main	16	static
+../source/main.c:64:6:vPortSuppressTicksAndSleep	40	static

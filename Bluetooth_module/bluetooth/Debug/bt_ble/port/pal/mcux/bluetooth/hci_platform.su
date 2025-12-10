@@ -1,0 +1,6 @@
+../bt_ble/port/pal/mcux/bluetooth/hci_platform.c:49:6:hci_platform_init	8	static
+../bt_ble/port/pal/mcux/bluetooth/hci_platform.c:61:18:hci_platform_rx_callback	24	static
+../bt_ble/port/pal/mcux/bluetooth/hci_platform.c:79:6:hci_platform_bt_init	8	static
+../bt_ble/port/pal/mcux/bluetooth/hci_platform.c:85:6:hci_platform_bt_shutdown	4	static
+../bt_ble/port/pal/mcux/bluetooth/hci_platform.c:91:12:hci_platform_send_data	16	static
+../bt_ble/port/pal/mcux/bluetooth/hci_platform.c:160:12:hci_transport_write_data	16	static

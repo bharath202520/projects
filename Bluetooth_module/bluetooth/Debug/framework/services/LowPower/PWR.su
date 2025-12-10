@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_common_arm.h:908:24:DisableGlobalIRQ	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_common_arm.h:934:20:EnableGlobalIRQ	24	static
+../framework/services/LowPower/PWR.c:53:17:PWR_GetMinValue	32	static
+../framework/services/LowPower/PWR.c:81:28:PWR_SysticksPreProcess	16	static
+../framework/services/LowPower/PWR.c:88:28:PWR_SysticksPostProcess	24	static
+../framework/services/LowPower/PWR.c:94:6:PWR_Init	8	static
+../framework/services/LowPower/PWR.c:113:10:PWR_EnterLowPower	72	static
+../framework/services/LowPower/PWR.c:198:20:PWR_SetLowPowerModeConstraint	48	static
+../framework/services/LowPower/PWR.c:242:20:PWR_ReleaseLowPowerModeConstraint	48	static
+../framework/services/LowPower/PWR.c:286:6:PWR_AllowDeviceToSleep	16	static
+../framework/services/LowPower/PWR.c:302:6:PWR_DisallowDeviceToSleep	16	static
+../framework/services/LowPower/PWR.c:318:9:PWR_IsDeviceAllowedToSleep	4	static
+../framework/services/LowPower/PWR.c:323:9:PWR_LowPowerEnterCritical	16	static
+../framework/services/LowPower/PWR.c:329:9:PWR_LowPowerExitCritical	16	static
+../framework/services/LowPower/PWR.c:335:17:PWR_GetRadioNextEventUs	4	static
+../framework/services/LowPower/PWR.c:345:28:PWR_SysTicksLowPowerInit	8	static

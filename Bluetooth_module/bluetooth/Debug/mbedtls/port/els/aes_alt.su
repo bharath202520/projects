@@ -1,0 +1,8 @@
+../mbedtls/port/els/aes_alt.c:51:12:mbedtls_aes_setkey_alt	48	static
+../mbedtls/port/els/aes_alt.c:82:5:mbedtls_aes_setkey_enc	24	static
+../mbedtls/port/els/aes_alt.c:90:5:mbedtls_aes_setkey_dec	24	static
+../mbedtls/port/els/aes_alt.c:98:12:mbedtls_internal_aes_els	80	static
+../mbedtls/port/els/aes_alt.c:153:5:mbedtls_internal_aes_encrypt	48	static
+../mbedtls/port/els/aes_alt.c:197:5:mbedtls_internal_aes_decrypt	48	static
+../mbedtls/port/els/aes_alt.c:241:5:mbedtls_aes_crypt_cbc	112	static
+../mbedtls/port/els/aes_alt.c:336:5:mbedtls_aes_crypt_ctr	80	static

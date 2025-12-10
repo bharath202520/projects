@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\edgefast\bluetooth\include/bluetooth/addr.h:243:19:bt_addr_le_to_str	80	static
+../source/peripheral_ht.c:77:13:att_mtu_updated	16	static
+../source/peripheral_ht.c:87:13:security_changed	48	static
+../source/peripheral_ht.c:97:13:auth_passkey_display	48	static
+../source/peripheral_ht.c:106:13:auth_cancel	48	static
+../source/peripheral_ht.c:155:13:connected	96	static
+../source/peripheral_ht.c:201:13:disconnected	16	static
+../source/peripheral_ht.c:211:13:bt_ready	56	static
+../source/peripheral_ht.c:253:6:peripheral_ht_task	24	static

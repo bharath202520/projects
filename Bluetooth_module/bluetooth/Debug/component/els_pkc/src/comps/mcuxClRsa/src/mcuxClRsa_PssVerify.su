@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:109:25:mcuxClSession_allocateWords_pkcWa	32	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClSession\inc/internal/mcuxClSession_Internal.h:168:20:mcuxClSession_freeWords_pkcWa	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClBuffer\inc/internal/mcuxClBuffer_Internal_Pointer.h:82:66:mcuxClBuffer_read	56	static
+../component/els_pkc/src/comps/mcuxClRsa/src/mcuxClRsa_PssVerify.c:112:56:mcuxClRsa_pssVerify_Hash_modulo_m	120	static
+../component/els_pkc/src/comps/mcuxClRsa/src/mcuxClRsa_PssVerify.c:179:56:mcuxClRsa_pssVerify_sizeAndBytes_check	56	static
+../component/els_pkc/src/comps/mcuxClRsa/src/mcuxClRsa_PssVerify.c:206:49:mcuxClRsa_pssVerify	344	static

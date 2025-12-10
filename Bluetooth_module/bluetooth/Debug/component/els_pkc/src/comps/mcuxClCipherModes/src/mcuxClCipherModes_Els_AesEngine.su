@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:211:25:mcuxClKey_getLoadedKeyData	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:253:24:mcuxClKey_getLoadedKeySlot	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:274:38:mcuxClKey_getLoadStatus	16	static
+../component/els_pkc/src/comps/mcuxClCipherModes/src/mcuxClCipherModes_Els_AesEngine.c:32:54:mcuxClCipherModes_EngineEls	176	static

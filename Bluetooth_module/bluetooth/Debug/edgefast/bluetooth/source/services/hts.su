@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\edgefast\bluetooth\include/bluetooth/gatt.h:1214:19:bt_gatt_notify	48	static
+../edgefast/bluetooth/source/services/hts.c:110:13:htmc_ccc_cfg_changed	16	static
+../edgefast/bluetooth/source/services/hts.c:116:16:read_str	48	static
+../edgefast/bluetooth/source/services/hts.c:123:16:read_char	48	static
+../edgefast/bluetooth/source/services/hts.c:131:16:write_char	32	static
+../edgefast/bluetooth/source/services/hts.c:179:6:bt_hts_indicate	16	static

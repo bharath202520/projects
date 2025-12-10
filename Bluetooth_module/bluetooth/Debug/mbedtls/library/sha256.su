@@ -1,0 +1,6 @@
+../mbedtls/library/sha256.c:31:6:mbedtls_sha256_init	16	static
+../mbedtls/library/sha256.c:38:6:mbedtls_sha256_free	16	static
+../mbedtls/library/sha256.c:100:6:mbedtls_sha256_starts	16	static
+../mbedtls/library/sha256.c:311:6:mbedtls_sha256_update	24	static
+../mbedtls/library/sha256.c:389:6:mbedtls_sha256_finish	16	static
+../mbedtls/library/sha256.c:500:5:mbedtls_sha256_self_test	472	static

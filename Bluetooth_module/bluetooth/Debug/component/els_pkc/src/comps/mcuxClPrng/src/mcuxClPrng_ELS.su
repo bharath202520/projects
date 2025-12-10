@@ -1,0 +1,2 @@
+../component/els_pkc/src/comps/mcuxClPrng/src/mcuxClPrng_ELS.c:22:50:mcuxClPrng_init	176	static
+../component/els_pkc/src/comps/mcuxClPrng/src/mcuxClPrng_ELS.c:160:50:mcuxClPrng_generate	72	static

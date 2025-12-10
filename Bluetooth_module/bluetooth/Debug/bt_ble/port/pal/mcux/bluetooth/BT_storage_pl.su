@@ -1,0 +1,9 @@
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:106:13:storage_idle_task	32	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:138:6:storage_bt_init_pl	16	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:180:6:storage_bt_shutdown_pl	16	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:199:12:storage_open_pl	24	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:251:12:storage_close_pl	24	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:278:7:storage_write_pl	24	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:309:7:storage_read_pl	24	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:340:7:storage_write_signature_pl	24	static
+../bt_ble/port/pal/mcux/bluetooth/BT_storage_pl.c:371:7:storage_read_signature_pl	24	static

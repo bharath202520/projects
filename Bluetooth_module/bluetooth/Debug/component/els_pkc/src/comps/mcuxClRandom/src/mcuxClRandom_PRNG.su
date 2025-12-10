@@ -1,0 +1,3 @@
+../component/els_pkc/src/comps/mcuxClRandom/src/mcuxClRandom_PRNG.c:27:52:mcuxClRandom_ncPatch	48	static
+../component/els_pkc/src/comps/mcuxClRandom/src/mcuxClRandom_PRNG.c:47:52:mcuxClRandom_ncInit	80	static
+../component/els_pkc/src/comps/mcuxClRandom/src/mcuxClRandom_PRNG.c:79:52:mcuxClRandom_ncGenerate	104	static

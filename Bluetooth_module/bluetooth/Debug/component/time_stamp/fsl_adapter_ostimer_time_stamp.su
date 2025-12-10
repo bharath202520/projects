@@ -1,0 +1,4 @@
+../component/time_stamp/fsl_adapter_ostimer_time_stamp.c:41:6:HAL_TimeStampInit	24	static
+../component/time_stamp/fsl_adapter_ostimer_time_stamp.c:58:10:HAL_GetTimeStamp	80	static
+../component/time_stamp/fsl_adapter_ostimer_time_stamp.c:69:6:HAL_TimeStampExitLowpower	24	static
+../component/time_stamp/fsl_adapter_ostimer_time_stamp.c:77:6:HAL_TimeStampEnterLowpower	24	static

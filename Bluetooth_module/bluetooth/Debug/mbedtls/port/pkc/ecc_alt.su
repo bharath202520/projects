@@ -1,0 +1,1 @@
+../mbedtls/port/pkc/ecc_alt.c:48:5:mbedtls_ecp_setupDomainParams	64	static

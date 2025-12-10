@@ -1,0 +1,3 @@
+../framework/platform/rw61x/fwk_platform_ot.c:41:5:PLATFORM_InitOt	16	static
+../framework/platform/rw61x/fwk_platform_ot.c:80:5:PLATFORM_TerminateOt	16	static
+../framework/platform/rw61x/fwk_platform_ot.c:103:5:PLATFORM_ResetOt	16	static

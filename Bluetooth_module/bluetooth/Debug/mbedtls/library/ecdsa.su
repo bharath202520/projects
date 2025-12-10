@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\mbedtls\include/mbedtls/error.h:147:19:mbedtls_error_add	24	static
+../mbedtls/library/ecdsa.c:231:5:mbedtls_ecdsa_can_do	16	static
+../mbedtls/library/ecdsa.c:707:12:ecdsa_signature_to_asn1	176	static
+../mbedtls/library/ecdsa.c:732:5:mbedtls_ecdsa_write_signature_restartable	80	static
+../mbedtls/library/ecdsa.c:782:5:mbedtls_ecdsa_write_signature	48	static
+../mbedtls/library/ecdsa.c:816:5:mbedtls_ecdsa_read_signature	32	static
+../mbedtls/library/ecdsa.c:830:5:mbedtls_ecdsa_read_signature_restartable	72	static
+../mbedtls/library/ecdsa.c:918:5:mbedtls_ecdsa_from_keypair	24	static
+../mbedtls/library/ecdsa.c:936:6:mbedtls_ecdsa_init	16	static
+../mbedtls/library/ecdsa.c:946:6:mbedtls_ecdsa_free	16	static

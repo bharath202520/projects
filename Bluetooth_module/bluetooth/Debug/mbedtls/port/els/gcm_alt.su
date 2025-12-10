@@ -1,0 +1,8 @@
+../mbedtls/port/els/gcm_alt.c:42:5:mbedtls_aes_gcm_setkey_alt	32	static
+../mbedtls/port/els/gcm_alt.c:80:5:mbedtls_gcm_setkey	24	static
+../mbedtls/port/els/gcm_alt.c:88:5:mbedtls_aes_gcm_starts_alt	264	static
+../mbedtls/port/els/gcm_alt.c:306:5:mbedtls_gcm_starts	32	static
+../mbedtls/port/els/gcm_alt.c:316:5:mbedtls_aes_gcm_update_alt	176	static
+../mbedtls/port/els/gcm_alt.c:426:5:mbedtls_gcm_update	24	static
+../mbedtls/port/els/gcm_alt.c:431:5:mbedtls_aes_gcm_finish_alt	120	static
+../mbedtls/port/els/gcm_alt.c:498:5:mbedtls_gcm_finish	24	static

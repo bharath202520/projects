@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\drivers/fsl_usart.h:493:24:USART_GetStatusFlags	16	static
+../source/board_lp.c:86:6:BOARD_LowPowerInit	16	static
+../source/board_lp.c:99:13:BOARD_EnterLowPower	8	static
+../source/board_lp.c:105:13:BOARD_ExitLowPower	8	static
+../source/board_lp.c:111:13:BOARD_ExitPowerDown	8	static
+../source/board_lp.c:129:13:BOARD_UninitDebugConsole	8	static
+../source/board_lp.c:138:13:BOARD_ReinitDebugConsole	16	static
+../source/board_lp.c:149:17:BOARD_LowpowerCallback	24	static

@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:211:25:mcuxClKey_getLoadedKeyData	16	static
+../component/els_pkc/src/comps/mcuxClHmac/src/mcuxClHmac_Helper.c:39:49:mcuxClHmac_createHmacMode	56	static
+../component/els_pkc/src/comps/mcuxClHmac/src/mcuxClHmac_Helper.c:67:49:mcuxClHmac_prepareHMACKey	128	static

@@ -1,0 +1,2 @@
+../framework/services/LowPower/PWR_systicks.c:45:6:PWR_SysticksPreProcess	120	static
+../framework/services/LowPower/PWR_systicks.c:127:6:PWR_SysticksPostProcess	88	static

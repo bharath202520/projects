@@ -1,0 +1,4 @@
+../mbedtls/port/pkc/ecdh_alt.c:90:13:mbedtls_ecp_free_ecdh	16	static
+../mbedtls/port/pkc/ecdh_alt.c:119:5:mbedtls_ecdh_gen_public	768	static
+../mbedtls/port/pkc/ecdh_alt.c:269:5:mbedtls_ecdh_compute_shared	768	static
+../mbedtls/port/pkc/ecdh_alt.c:429:5:mbedtls_ecdh_can_do	16	static

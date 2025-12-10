@@ -1,0 +1,14 @@
+../mbedtls/library/sha1.c:32:6:mbedtls_sha1_init	16	static
+../mbedtls/library/sha1.c:39:6:mbedtls_sha1_free	16	static
+../mbedtls/library/sha1.c:48:6:mbedtls_sha1_clone	16	static
+../mbedtls/library/sha1.c:60:5:mbedtls_sha1_starts_ret	16	static
+../mbedtls/library/sha1.c:77:6:mbedtls_sha1_starts	16	static
+../mbedtls/library/sha1.c:84:5:mbedtls_internal_sha1_process	112	static
+../mbedtls/library/sha1.c:256:6:mbedtls_sha1_process	16	static
+../mbedtls/library/sha1.c:267:5:mbedtls_sha1_update_ret	40	static
+../mbedtls/library/sha1.c:321:6:mbedtls_sha1_update	24	static
+../mbedtls/library/sha1.c:332:5:mbedtls_sha1_finish_ret	32	static
+../mbedtls/library/sha1.c:390:6:mbedtls_sha1_finish	16	static
+../mbedtls/library/sha1.c:402:5:mbedtls_sha1_ret	120	static
+../mbedtls/library/sha1.c:433:6:mbedtls_sha1	24	static
+../mbedtls/library/sha1.c:477:5:mbedtls_sha1_self_test	1168	static

@@ -1,0 +1,8 @@
+../framework/platform/rw61x/fwk_platform_hdlc.c:107:5:PLATFORM_InitHdlcInterface	24	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:140:5:PLATFORM_TerminateHdlcInterface	16	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:168:5:PLATFORM_ResetHdlcInterface	16	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:181:5:PLATFORM_SendHdlcMessage	48	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:259:12:PLATFORM_InitHdlcImumc	40	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:280:12:PLATFORM_TerminateHdlcImumc	16	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:294:34:PLATFORM_HdlcImumcRxCallback	24	static
+../framework/platform/rw61x/fwk_platform_hdlc.c:306:13:PLATFORM_IsHdlcLinkReady	8	static

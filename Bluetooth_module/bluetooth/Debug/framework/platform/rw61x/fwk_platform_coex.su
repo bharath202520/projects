@@ -1,0 +1,3 @@
+../framework/platform/rw61x/fwk_platform_coex.c:67:5:PLATFORM_InitControllers	24	static
+../framework/platform/rw61x/fwk_platform_coex.c:113:5:PLATFORM_TerminateControllers	24	static
+../framework/platform/rw61x/fwk_platform_coex.c:136:9:PLATFORM_GetRunningControllers	4	static

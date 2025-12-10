@@ -1,0 +1,3 @@
+../mbedtls/port/pkc/rsa_alt.c:57:13:mbedlts_rsa_free	24	static
+../mbedtls/port/pkc/rsa_alt.c:100:5:mbedtls_rsa_public	288	static
+../mbedtls/port/pkc/rsa_alt.c:291:5:mbedtls_rsa_private	616	static

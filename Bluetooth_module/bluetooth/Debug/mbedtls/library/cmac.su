@@ -1,0 +1,14 @@
+../mbedtls/library/cmac.c:60:12:cmac_multiply_by_u	40	static
+../mbedtls/library/cmac.c:107:12:cmac_generate_subkeys	64	static
+../mbedtls/library/cmac.c:142:13:cmac_xor_block	32	static
+../mbedtls/library/cmac.c:159:13:cmac_pad	32	static
+../mbedtls/library/cmac.c:177:5:mbedtls_cipher_cmac_starts	40	static
+../mbedtls/library/cmac.c:222:5:mbedtls_cipher_cmac_update	64	static
+../mbedtls/library/cmac.c:297:5:mbedtls_cipher_cmac_finish	96	static
+../mbedtls/library/cmac.c:363:5:mbedtls_cipher_cmac_reset	24	static
+../mbedtls/library/cmac.c:384:5:mbedtls_cipher_cmac	96	static
+../mbedtls/library/cmac.c:426:5:mbedtls_aes_cmac_prf_128	72	static
+../mbedtls/library/cmac.c:770:12:cmac_test_subkeys	136	static
+../mbedtls/library/cmac.c:864:12:cmac_test_wth_cipher	64	static
+../mbedtls/library/cmac.c:931:12:test_aes128_cmac_prf	48	static
+../mbedtls/library/cmac.c:956:5:mbedtls_cmac_self_test	48	static

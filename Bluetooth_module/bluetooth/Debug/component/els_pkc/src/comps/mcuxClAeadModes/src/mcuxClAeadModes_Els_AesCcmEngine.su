@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:165:32:mcuxClKey_getSize	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:211:25:mcuxClKey_getLoadedKeyData	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:253:24:mcuxClKey_getLoadedKeySlot	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClKey\inc/internal/mcuxClKey_Functions_Internal.h:274:38:mcuxClKey_getLoadStatus	16	static
+../component/els_pkc/src/comps/mcuxClAeadModes/src/mcuxClAeadModes_Els_AesCcmEngine.c:46:57:mcuxClAeadModes_EngineAesCcmEls_Auth	152	static
+../component/els_pkc/src/comps/mcuxClAeadModes/src/mcuxClAeadModes_Els_AesCcmEngine.c:126:57:mcuxClAeadModes_EngineAesCcmEls_Dec	120	static
+../component/els_pkc/src/comps/mcuxClAeadModes/src/mcuxClAeadModes_Els_AesCcmEngine.c:192:57:mcuxClAeadModes_EngineAesCcmEls_Enc	120	static
+../component/els_pkc/src/comps/mcuxClAeadModes/src/mcuxClAeadModes_Els_AesCcmEngine.c:255:50:mcuxClAeadModes_EngineAesCcmEls	144	static

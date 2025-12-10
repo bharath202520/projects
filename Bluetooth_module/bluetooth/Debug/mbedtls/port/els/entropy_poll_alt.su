@@ -1,0 +1,2 @@
+../mbedtls/port/els/entropy_poll_alt.c:46:13:mbedtls_mcux_rng_init	8	static
+../mbedtls/port/els/entropy_poll_alt.c:54:5:mbedtls_hardware_poll	48	static

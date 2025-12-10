@@ -1,0 +1,5 @@
+../edgefast/bluetooth/source/impl/ethermind/host/bt_pal_rpa.c:34:12:internal_rand	16	static
+../edgefast/bluetooth/source/impl/ethermind/host/bt_pal_rpa.c:48:12:internal_encrypt_le	24	static
+../edgefast/bluetooth/source/impl/ethermind/host/bt_pal_rpa.c:61:12:ah	48	static
+../edgefast/bluetooth/source/impl/ethermind/host/bt_pal_rpa.c:91:6:bt_rpa_irk_matches	24	static
+../edgefast/bluetooth/source/impl/ethermind/host/bt_pal_rpa.c:108:5:bt_rpa_create	24	static

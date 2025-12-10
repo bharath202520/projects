@@ -1,0 +1,2 @@
+../mbedtls/library/ctr_drbg.c:812:12:ctr_drbg_self_test_entropy	32	static
+../mbedtls/library/ctr_drbg.c:833:5:mbedtls_ctr_drbg_self_test	96	static

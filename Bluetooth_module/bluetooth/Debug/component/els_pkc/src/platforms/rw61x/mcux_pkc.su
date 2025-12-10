@@ -1,0 +1,2 @@
+../component/els_pkc/src/platforms/rw61x/mcux_pkc.c:30:10:PKC_PowerDownWakeupInit	24	static
+../component/els_pkc/src/platforms/rw61x/mcux_pkc.c:55:10:PKC_InitNoZeroize	16	static

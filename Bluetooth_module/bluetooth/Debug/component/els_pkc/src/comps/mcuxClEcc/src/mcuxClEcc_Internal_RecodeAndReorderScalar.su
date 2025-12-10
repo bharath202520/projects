@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:51:26:mcuxClPkc_inline_getUptrt	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClPkc\inc/internal/mcuxClPkc_Inline_Functions.h:191:20:mcuxClPkc_inline_waitForReady	4	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\bluetooth\component\els_pkc\src\comps\mcuxClMath\inc/internal/mcuxClMath_Internal_Utils.h:34:24:mcuxClMath_CountLeadingZerosWord	16	static
+../component/els_pkc/src/comps/mcuxClEcc/src/mcuxClEcc_Internal_RecodeAndReorderScalar.c:64:49:mcuxClEcc_RecodeAndReorderScalar	80	static
