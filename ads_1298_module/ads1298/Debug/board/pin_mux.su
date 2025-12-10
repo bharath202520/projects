@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\ads1298\drivers/fsl_io_mux.h:1578:20:IO_MUX_SetPinMux	32	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\ads1298\drivers/fsl_io_mux.h:1688:20:IO_MUX_SetPinConfig	40	static
+../board/pin_mux.c:29:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:60:6:BOARD_InitPins	32	static

@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\ads1298\CMSIS/core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\ads1298\CMSIS/core_cm33.h:3108:26:SysTick_Config	16	static
+../source/main.c:14:6:SysTick_Handler	4	static
+../source/main.c:15:13:initMillisTimer	8	static
+../source/main.c:16:17:millis	4	static
+../source/main.c:19:5:main	128	static

@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\MCUXpressoIDE_25.6.136\workspace\flash_with_two_cs_pins\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+../source/spi_interrupt_b2b_transfer_master.c:34:13:delay_ms	24	static
+../source/spi_interrupt_b2b_transfer_master.c:40:13:GPIO_Init	16	static
+../source/spi_interrupt_b2b_transfer_master.c:52:13:CS_Low	8	static
+../source/spi_interrupt_b2b_transfer_master.c:56:13:CS_High	8	static
+../source/spi_interrupt_b2b_transfer_master.c:60:13:Reset_Low	8	static
+../source/spi_interrupt_b2b_transfer_master.c:64:13:Reset_High	8	static
+../source/spi_interrupt_b2b_transfer_master.c:69:13:ADS1298_SPI_Init	32	static
+../source/spi_interrupt_b2b_transfer_master.c:82:13:ADS1298_WriteCommand	40	static
+../source/spi_interrupt_b2b_transfer_master.c:101:13:ADS1298_Reset	8	static
+../source/spi_interrupt_b2b_transfer_master.c:111:16:ADS1298_ReadRegister	40	static
+../source/spi_interrupt_b2b_transfer_master.c:143:5:main	32	static
